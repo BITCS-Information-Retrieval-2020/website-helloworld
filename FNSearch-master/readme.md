@@ -111,7 +111,7 @@ $ python manage.py runserve # 启动 django
    d)	按钮能够跳转到高级检索界面实现能够指定多个字段进行搜索
    e)	检查输入是否合法
 
-   ![首页检索](img\首页检索.png)
+   ![首页检索](https://github.com/BITCS-Information-Retrieval-2020/website-helloworld/blob/master/FNSearch-master/img/%E9%A6%96%E9%A1%B5%E6%A3%80%E7%B4%A2.PNG)
 
    (2) 高级检索
    a) 高级检索支持与或非三种逻辑 
@@ -119,7 +119,7 @@ $ python manage.py runserve # 启动 django
    c) 只支持author和title两者之间的逻辑
    d) 检查输入是否合法
 
-   ![高级检索](img\高级检索.png)
+   ![高级检索](https://github.com/BITCS-Information-Retrieval-2020/website-helloworld/blob/master/FNSearch-master/img/%E9%AB%98%E7%BA%A7%E6%A3%80%E7%B4%A2.png)
 
 2. ### 检索结果展示页
 
@@ -130,7 +130,7 @@ $ python manage.py runserve # 启动 django
    e)	根据后台是否有PDF、视频、数据链接动态展示
    f)        展示pdf缩略图(由于没有爬取处理，这里是写死的)
 
-   ![img\检索结果.png](img\检索结果.png)
+   ![img\检索结果.png](https://github.com/BITCS-Information-Retrieval-2020/website-helloworld/blob/master/FNSearch-master/img/%E6%A3%80%E7%B4%A2%E7%BB%93%E6%9E%9C.png)
 
 3. ### 论文详情页
 
@@ -139,9 +139,9 @@ $ python manage.py runserve # 启动 django
    c)	根据后台返回数据是否为空动态展示：摘要、视频、PDF链接、数据集链接；
    d)      如果后台返回有视频链接，可直接播放(仅支持存储到后台的视频 不支持在线视频)
 
-	![论文详情1](img\论文详情1.png)
+	![论文详情1](https://github.com/BITCS-Information-Retrieval-2020/website-helloworld/blob/master/FNSearch-master/img/%E8%AE%BA%E6%96%87%E8%AF%A6%E6%83%851.png)
 
-	![论文详情2](img\论文详情2.png)
+	![论文详情2](FNSearch-master\img\论文详情2.pnghttps://github.com/BITCS-Information-Retrieval-2020/website-helloworld/blob/master/FNSearch-master/img/%E8%AE%BA%E6%96%87%E8%AF%A6%E6%83%852.PNG)
 
 
 
