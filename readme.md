@@ -141,7 +141,7 @@ $ python manage.py runserve # 启动 django
 
 	![论文详情1](https://github.com/BITCS-Information-Retrieval-2020/website-helloworld/blob/master/FNSearch-master/img/%E8%AE%BA%E6%96%87%E8%AF%A6%E6%83%851.png)
 
-	![论文详情2](FNSearch-master\img\论文详情2.pnghttps://github.com/BITCS-Information-Retrieval-2020/website-helloworld/blob/master/FNSearch-master/img/%E8%AE%BA%E6%96%87%E8%AF%A6%E6%83%852.PNG)
+	![论文详情2](https://github.com/BITCS-Information-Retrieval-2020/website-helloworld/blob/master/FNSearch-master/img/%E8%AE%BA%E6%96%87%E8%AF%A6%E6%83%852.PNG)
 
 
 
